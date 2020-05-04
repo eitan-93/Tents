@@ -1,4 +1,4 @@
-# tents2
+# Tents
 
 Defining, analyzing and solving a given algorithmic problem through multiple approaches (e.g. reduction to SAT and using linear programming).
 
