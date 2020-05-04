@@ -1,6 +1,5 @@
 # Tents
 
-(The game tents - https://www.brainbashers.com/tents.asp) 
 
 Defining, analyzing and solving a given algorithmic problem through multiple approaches (e.g. reduction to SAT and using linear programming).
 
