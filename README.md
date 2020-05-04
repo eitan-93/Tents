@@ -11,7 +11,7 @@ Challenges and technologies :
 
 • Defining and Implementing an algorithm that generates an instance to the given problem in polynomial time.
 
-• Using Java, Java SAT (SAT4J, sat4j-master) and ILP (lp-solver-java-master pack -> com.google.ortools.jar) libraries in order to implement and test our theoretical solution.
+• Using Java, Java SAT (SAT4J) and ILP (lp-solver-java pack -> com.google.ortools.jar) libraries in order to implement and test our theoretical solution.
 
 *The libraries are not attached here.
 
