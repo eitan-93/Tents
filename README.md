@@ -18,4 +18,4 @@ Challenges and technologies :
 *The cnf format files are containers into which cnf expressions that describe the problem are written at runtime.
 
 *There is an extended pdf (in hebrew) explaining the math behing our two algorithms - 
-that are implemented in java.
+that are implemented in java, on intelliJ originally.
