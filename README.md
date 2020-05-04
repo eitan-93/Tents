@@ -14,5 +14,7 @@ Challenges and technologies :
 • Using Java, Java SAT (SAT4J, sat4j-master) and ILP (lp-solver-java-master pack -> com.google.ortools.jar) libraries in order to implement and test our theoretical solution.
 
 *The libraries are not attached here.
+
 *The cnf format files are containers into which cnf expressions that describe the problem are written at runtime.
+
 *There is an extended pdf (in hebrew) explaining the math behing our two algorithms.
